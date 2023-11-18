@@ -74,7 +74,7 @@ If you'd like to contribute to this project, please follow these guidelines:
 
 If you have any questions, suggestions, or feedback, feel free to contact the project maintainer:
 
-- **Name:** Akshat Saxena
+- **Name:** Chitrankar
 - **Email:** [chitrankarramanandi86@gmail.com](mailto:chitrankarramanandi86@gmail.com)
 
 
