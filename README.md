@@ -25,7 +25,7 @@ To run the Kanban board application locally, follow these steps:
 
 2. Navigate to the project directory:
     ```bash
-    cd kanban-board
+    cd Chitrankar-Quicksell-Assignment
     ```
 
 3. Install the required dependencies:
